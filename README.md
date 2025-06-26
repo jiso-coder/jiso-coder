@@ -9,7 +9,8 @@
 ---
 
 ## 🔧 Technologies & Tools
-
+![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
